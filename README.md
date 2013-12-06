@@ -1,13 +1,13 @@
 ﻿TDD Advent Calendar 2013
 ========
 
-このリポジトリは、[TDD Advent Calendar 2013](https://github.com/masaru-b-cl/TDDAdventJp2013.git)への参加エントリ「[テストケースの分類法あれこれ in C# #TDDAdventJp #TDD by @masaru_b_cl](http://takanosho.wordpress.com/2013/12/09/tdd-advent-calendar-2013/)」で使用したサンプルコードのためのものです。
+このリポジトリは、[TDD Advent Calendar 2013](http://qiita.com/advent-calendar/2013/tddadventjp)への参加エントリ「[テストケースの分類法あれこれ in C# with MSTest #TddAdventJp #TDD by @masaru\_b\_cl](http://takanosho.wordpress.com/2013/12/09/tdd-advent-calendar-2013/)」で使用したサンプルコードのためのものです。
 
 # ライセンス
 Copyright 2013 TAKANO Sho.
 
 - http://takanosho.wordpress.com/
-- [https://twitter.com/masaru\_b\_cl](https://twitter.com/masaru_b_cl)
+- [@masaru\_b\_cl](https://twitter.com/masaru_b_cl)
 
 zlib/libpng
 
